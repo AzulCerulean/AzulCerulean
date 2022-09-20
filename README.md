@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzulCerulean
 - 👀 I’m interested in Games and Coding
-- 🌱 I’m currently learning how to be a full-stack web-dev
+- 🌱 Recent graduate, full stack web developer
 - 💞️ I’m looking to collaborate on anything funsies
 - 📫 How to reach me 
 
