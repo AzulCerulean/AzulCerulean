@@ -1,9 +1,14 @@
+#About
+
+
 tl;dr:
 - 👋 Hi, I’m @AzulCerulean
 - 👀 I’m interested in Games and Coding
 - 🌱 Recent graduate, full stack web developer
 - 💞️ I’m looking to collaborate on anything funsies
 - 📫 How to reach me: https://www.linkedin.com/in/azul-cerulean/
+
+---
 
   I'm Azul, a recent graduate in full stack web development (MERN Stack) from Concordia University 
 Bootcamps. I am very adaptable and learn what I need to know fast.
