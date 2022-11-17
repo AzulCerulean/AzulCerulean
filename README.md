@@ -1,7 +1,7 @@
-#About
+# About
 
 
-tl;dr:
+*tl;dr:*
 - 👋 Hi, I’m @AzulCerulean
 - 👀 I’m interested in Games and Coding
 - 🌱 Recent graduate, full stack web developer
@@ -9,6 +9,8 @@ tl;dr:
 - 📫 How to reach me: https://www.linkedin.com/in/azul-cerulean/
 
 ---
+
+Hi,
 
   I'm Azul, a recent graduate in full stack web development (MERN Stack) from Concordia University 
 Bootcamps. I am very adaptable and learn what I need to know fast.
@@ -21,6 +23,8 @@ sure enough I found it to be exciting and fun.
   
   During my downtime, my hobbies include gaming (video games and tabletop), music, learning of new 
 hobbies and imagining new fantastical worlds.
+
+Currently learning C++
 
 <!---
 AzulCerulean/AzulCerulean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
